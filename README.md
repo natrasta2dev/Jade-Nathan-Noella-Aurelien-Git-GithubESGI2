@@ -1,5 +1,6 @@
 # Jade-Nathan-Noella-Aurelien-Git-GithubESGI2
 
+
 #Versionning avec Git et Github
 
 Les versions servent à gérer du texte, agnostiquer vis-à-vis du langage, sauvegardé l'historique des modification (versions), résolution des conflits entre les différentes versions, aide au changement de version.
@@ -15,3 +16,6 @@ Les systèmes **centralisés** sont des systèmes qui ont un serveur central qui
 Git est un système de version distribué, il permet de travailler en local et de pouvoir faire des modifications sans avoir besoin d'être connecté à internet. Il permet aussi de travailler à plusieurs sur un même projet.
 Les Server les plus populaires sont : Github, Gitlab
 
+
+## client interface graphique
+Differentes interfaces graphiques pour GitHub sont disponibles pour l'utiliser. GitHub Desktop par exemple pour Mac et Windows, l'integration d'un IDE dans VSCode ou d'autres. Malheureusement tous les clients n'ont pas acces a toutes les memes fonctions. 
